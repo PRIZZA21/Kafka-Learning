@@ -47,6 +47,6 @@ public class ProducerExample {
                 e.printStackTrace();
             }
         }
-
+        // run using gradle runProducer
         }
     }

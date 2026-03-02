@@ -93,6 +93,6 @@ public class ConsumerExample {
         // Producer pushes data.
         // Consumer pulls data using poll().
         // Kafka does not push messages automatically.
-
+        // run using gradle runConsumer
     }
 }
